@@ -1,2 +1,4 @@
 # Remote-Control-Airship
-readme comming soon™
+better readme comming soon™
+
+Showcase: https://youtu.be/_SdIe1zYbCM
